@@ -2,7 +2,8 @@
 int main()
 {
     using namespace std;
-    cout<<"come up and C++ me some time";
-    cout<<endl;
-    cout<<"tou won't regret it"<<endl;
+    char a='M';
+    cout<<"\a\n";
+    
+    return 0;
 }
